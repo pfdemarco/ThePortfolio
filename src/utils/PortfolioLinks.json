@@ -1,0 +1,44 @@
+{
+  "6": {
+    "name": "Post it note",
+    "img": "./assets/img/portfolio/note-taker.png",
+    "appLink": "https://pfdpostitnote.herokuapp.com/notes",
+    "gitLink": "https://github.com/pfdemarco/postITNote",
+    "imgAlt": "note"
+  },
+  "5": {
+    "name": "Online Offline Budget",
+    "img": "./assets/img/portfolio/budget-tracker.PNG",
+    "appLink": "https://pfd-onoffbudget.herokuapp.com/",
+    "gitLink": "https://github.com/pfdemarco/OnOffBudget",
+    "imgAlt": "budget"
+  },
+  "4": {
+    "name": "D&D Character Creator",
+    "img": "./assets/img/portfolio/dnd.png",
+    "appLink": "https://character-creator-express.herokuapp.com/login",
+    "gitLink": "https://github.com/pfdemarco/dnd-quick-character-creator",
+    "imgAlt": "dnd"
+  },
+  "3": {
+    "name": "Team Profile Generator",
+    "img": "./assets/img/portfolio/dream-team.PNG",
+    "appLink": "https://pfdemarco.github.io/Team-Profile-Generator/main.html",
+    "gitLink": "https://github.com/pfdemarco/Team-Profile-Generator",
+    "imgAlt": "team"
+  },
+  "2": {
+    "name": "Weather App",
+    "img": "./assets/img/portfolio/weather.PNG",
+    "appLink": "https://pfdemarco.github.io/Weather/index.html",
+    "gitLink": "https://github.com/pfdemarco/Weather",
+    "imgAlt": "weather"
+  },
+  "1": {
+    "name": "Random Meal Generator",
+    "img": "./assets/img/portfolio/meal.PNG",
+    "appLink": "https://tjvig94.github.io/random-meal-generator/",
+    "gitLink": "https://github.com/pfdemarco/random-meal-generator",
+    "imgAlt": "mealgen"
+  }
+}
